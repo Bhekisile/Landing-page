@@ -28,6 +28,7 @@ header > div {
     padding-left: 200px;
     font-size: 24px;
     color: #f9faf8;
+    font-weight: 800;
 }
 
 h1 {
@@ -152,12 +153,11 @@ blockquote {
 .section4 .btn {
     border: 2px solid #fff;
     margin-right: 100px;
-    margin-bottom: 48px;
+    margin-top: 50px;
 }
 
 h3 {
-    margin-left: 72px;
-    padding-top: 48px;
+    padding-top: 24px;
     font-size: 24px;
     color: #f9faf8;
     width: 400px;
